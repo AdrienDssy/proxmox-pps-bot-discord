@@ -116,7 +116,7 @@ const PPS = "15000"
     }
     
     async function send(params, pps, pog) {     
-           const resp = await fetch('https://discord.com/api/webhooks/914270933437513770/0BVQJ_ovQPQZ7C8i2YY6Yzma9tMstinWID8A1AfLcaGGAkcV3rnGrir6OMlsNNfeFHB0',
+           const resp = await fetch('<webhook URL>',
                 {
                     method: 'post',
                     headers: {
@@ -137,7 +137,7 @@ const PPS = "15000"
     }
 
     async function back(params, pps) {      
-        const resp = await fetch('https://discord.com/api/webhooks/914270933437513770/0BVQJ_ovQPQZ7C8i2YY6Yzma9tMstinWID8A1AfLcaGGAkcV3rnGrir6OMlsNNfeFHB0',
+        const resp = await fetch('<webhook URL>',
              {
                  method: 'post',
                  headers: {
