@@ -8,3 +8,5 @@ The end of the index.js you have the Webhook URL to configure.
 ![image](https://user-images.githubusercontent.com/53304251/161258041-150a7b43-c4f3-4fb8-b9a5-5de31faec810.png)
 
 Change this and you can import this to your Proxmox Node !
+
+Used by AdKyNet SAS (French company, IT domain)
